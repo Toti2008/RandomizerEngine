@@ -19,7 +19,7 @@ BLACK = (0, 0, 0)
 
 # Initialize screen
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Interactive Spinning, Color Changes, and Dynamic Sine Wave Notes")
+pygame.display.set_caption("Randomizer Engine")
 
 # Clock for controlling the frame rate
 clock = pygame.time.Clock()
