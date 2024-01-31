@@ -18,8 +18,8 @@ The Randomizer Engine is a Python program that creates an interactive visual exp
 
 ## Installation
 1. Install Python: https://www.python.org/downloads/
-2. Install Pygame: Open a terminal or command prompt and run:
-3. Install Pygame GUI: Open a terminal or command prompt and run:
+2. Install Pygame: Open a terminal or command prompt and run: "pip install pygame"
+3. Install Pygame GUI: Open a terminal or command prompt and run: "pip install pygame_gui"
 
 
 ## How to Run
